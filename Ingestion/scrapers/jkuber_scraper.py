@@ -22,7 +22,6 @@ import json
 import time
 from pathlib import Path
 
-import certifi
 import requests
 import urllib3
 from bs4 import BeautifulSoup
@@ -61,32 +60,50 @@ def fetch_page(url: str, retries: int = 3, delay: float = 2.0) -> str:
 
 def parse_notices(html: str) -> list[dict]:
     """
-    Parse the notice list into structured records.
+    Parse the notice marquee into structured records, including the real
+    PDF download link for each notice.
 
-    Each notice on the page currently looks like:
-        <notice title text>
-        Posted On: DD/MM/YYYY
-
-    Adjust the selector once you inspect the real HTML — this is a
-    reasonable starting guess based on the page's rendered text structure.
+    The site's actual structure (confirmed via view-source) is a
+    <marquee id="mq1"> containing a flat sequence of alternating siblings:
+        <a href="...pdf" target="_blank">Title text</a>
+        <p>...Posted On: DD/MM/YYYY...</p>
+    repeated once per notice. There is no wrapping container per notice,
+    so we pair consecutive <a> and <p> tags.
     """
     soup = BeautifulSoup(html, "html.parser")
+
+    marquee = soup.find("marquee", id="mq1")
+    if marquee is None:
+        print("WARNING: could not find <marquee id='mq1'> — page structure "
+              "may have changed. Falling back to empty result.")
+        return []
+
+    elements = marquee.find_all(["a", "p"], recursive=False)
+
     notices = []
+    i = 0
+    while i < len(elements):
+        a_tag = elements[i]
+        title = a_tag.get_text(strip=True)
 
-    # Placeholder selector — replace with the real container class/id
-    # once you inspect the page (e.g. div.news-item, li.notice-entry, etc.)
-    candidates = soup.find_all(string=lambda s: s and "Posted On:" in s)
+        # Clean the href: site emits raw backslashes and stray whitespace
+        # in the path (Windows-server artifact), which isn't a valid URL.
+        raw_href = a_tag.get("href", "").strip()
+        pdf_url = raw_href.replace("\\", "/") if raw_href else None
 
-    for node in candidates:
-        posted_on = node.strip().replace("Posted On:", "").strip()
-        # Title is typically the preceding sibling text block
-        title_node = node.find_previous(string=True)
-        title = title_node.strip() if title_node else None
+        posted_on = None
+        if i + 1 < len(elements) and elements[i + 1].name == "p":
+            p_text = elements[i + 1].get_text(strip=True)
+            posted_on = p_text.replace("Posted On:", "").strip()
+            i += 2
+        else:
+            i += 1
 
-        if title and posted_on:
+        if title:
             notices.append({
                 "title": title,
                 "posted_on": posted_on,
+                "pdf_url": pdf_url,
                 "source_url": BASE_URL,
                 "language": "hi" if any(
                     "\u0900" <= ch <= "\u097F" for ch in title
@@ -96,11 +113,35 @@ def parse_notices(html: str) -> list[dict]:
     return notices
 
 
+def download_pdfs(notices: list[dict], out_dir: Path) -> None:
+    """Download each notice's PDF into out_dir, named by its URL's filename."""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for n in notices:
+        url = n.get("pdf_url")
+        if not url:
+            continue
+        filename = url.rstrip("/").split("/")[-1]
+        dest = out_dir / filename
+        if dest.exists():
+            continue  # don't re-download what we already have
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=20, verify=False)
+            resp.raise_for_status()
+            dest.write_bytes(resp.content)
+            print(f"  downloaded: {filename}")
+        except requests.RequestException as e:
+            print(f"  FAILED: {filename} ({e})")
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--out", default="data/raw/jkuber_notices.json",
         help="Output JSON path"
+    )
+    parser.add_argument(
+        "--download-pdfs", action="store_true",
+        help="Also download each notice's linked PDF into data/raw/pdfs/"
     )
     args = parser.parse_args()
 
@@ -116,6 +157,11 @@ def main():
         json.dumps(notices, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     print(f"Saved to {out_path}")
+
+    if args.download_pdfs:
+        pdf_dir = out_path.parent / "pdfs"
+        print(f"Downloading PDFs to {pdf_dir} ...")
+        download_pdfs(notices, pdf_dir)
 
 
 if __name__ == "__main__":
