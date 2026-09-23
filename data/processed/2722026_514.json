@@ -1,28 +1,28 @@
 {
-  "file": "292025_495.pdf",
+  "file": "2722026_514.pdf",
   "page_count": 2,
   "pages": [
     {
       "words": [
         {
-          "text": "पत्रांक",
-          "confidence": 90,
-          "needs_review": false
+          "text": "Wain",
+          "confidence": 42,
+          "needs_review": true
         },
         {
           "text": ":",
-          "confidence": 90,
-          "needs_review": false
-        },
-        {
-          "text": "29",
-          "confidence": 93,
-          "needs_review": false
-        },
-        {
-          "text": "/बी०टी०ई०--02",
           "confidence": 88,
           "needs_review": false
+        },
+        {
+          "text": "29/",
+          "confidence": 72,
+          "needs_review": false
+        },
+        {
+          "text": "बी०्टी०ई०--08",
+          "confidence": 57,
+          "needs_review": true
         },
         {
           "text": "/",
@@ -31,27 +31,27 @@
         },
         {
           "text": "2025-26",
-          "confidence": 91,
+          "confidence": 93,
           "needs_review": false
         },
         {
           "text": "/",
-          "confidence": 92,
+          "confidence": 91,
           "needs_review": false
         },
         {
-          "text": "624",
+          "text": "..ढ..2.६2......//",
+          "confidence": 30,
+          "needs_review": true
+        },
+        {
+          "text": "बजट",
           "confidence": 95,
           "needs_review": false
         },
         {
-          "text": "#/बजट",
-          "confidence": 48,
-          "needs_review": true
-        },
-        {
           "text": "झारखण्ड",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
@@ -61,7 +61,7 @@
         },
         {
           "text": "वित्त",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
@@ -71,7 +71,7 @@
         },
         {
           "text": "प्रेषक,",
-          "confidence": 92,
+          "confidence": 93,
           "needs_review": false
         },
         {
@@ -81,7 +81,7 @@
         },
         {
           "text": "कुमार,",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
@@ -91,17 +91,17 @@
         },
         {
           "text": "के",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "सचिव",
-          "confidence": 78,
-          "needs_review": false
+          "confidence": 48,
+          "needs_review": true
         },
         {
           "text": "|",
-          "confidence": 78,
+          "confidence": 61,
           "needs_review": false
         },
         {
@@ -146,18 +146,13 @@
         },
         {
           "text": "सचिव",
-          "confidence": 95,
+          "confidence": 86,
           "needs_review": false
         },
         {
-          "text": "/",
-          "confidence": 88,
+          "text": "/सचिव,",
+          "confidence": 86,
           "needs_review": false
-        },
-        {
-          "text": "aaa,",
-          "confidence": 41,
-          "needs_review": true
         },
         {
           "text": "सभी",
@@ -166,26 +161,31 @@
         },
         {
           "text": "विभागाध्यक्ष,",
-          "confidence": 80,
+          "confidence": 89,
           "needs_review": false
         },
         {
           "text": "झारखण्ड,",
-          "confidence": 96,
+          "confidence": 93,
           "needs_review": false
         },
         {
-          "text": "रांची",
-          "confidence": 33,
+          "text": "Way",
+          "confidence": 56,
           "needs_review": true
         },
         {
           "text": "|",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
-          "text": "विषय",
+          "text": "Wa,",
+          "confidence": 60,
+          "needs_review": false
+        },
+        {
+          "text": "दिनांक",
           "confidence": 93,
           "needs_review": false
         },
@@ -195,18 +195,38 @@
           "needs_review": false
         },
         {
-          "text": "वित्तीय",
-          "confidence": 96,
+          "text": "2.9",
+          "confidence": 85,
           "needs_review": false
         },
         {
-          "text": "वर्ष",
+          "text": "|02/26",
+          "confidence": 33,
+          "needs_review": true
+        },
+        {
+          "text": "विषय",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "वित्तीय",
           "confidence": 95,
           "needs_review": false
         },
         {
+          "text": "वर्ष",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
           "text": "2025-26",
-          "confidence": 69,
+          "confidence": 93,
           "needs_review": false
         },
         {
@@ -225,17 +245,17 @@
           "needs_review": false
         },
         {
-          "text": "(संख्या--03)",
-          "confidence": 70,
+          "text": "(संख्या-04)",
+          "confidence": 73,
           "needs_review": false
         },
         {
           "text": "अधिनियम,",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
-          "text": "2025",
+          "text": "2026",
           "confidence": 96,
           "needs_review": false
         },
@@ -245,12 +265,12 @@
           "needs_review": false
         },
         {
-          "text": "अधिनियम-.09,",
-          "confidence": 34,
-          "needs_review": true
+          "text": "अधिनियम-02,",
+          "confidence": 91,
+          "needs_review": false
         },
         {
-          "text": "2025)",
+          "text": "2026)",
           "confidence": 96,
           "needs_review": false
         },
@@ -296,13 +316,18 @@
         },
         {
           "text": "संबंध",
-          "confidence": 93,
+          "confidence": 96,
           "needs_review": false
         },
         {
-          "text": "में।",
-          "confidence": 86,
-          "needs_review": false
+          "text": "में",
+          "confidence": 19,
+          "needs_review": true
+        },
+        {
+          "text": "।",
+          "confidence": 19,
+          "needs_review": true
         },
         {
           "text": "महोदय,",
@@ -311,22 +336,22 @@
         },
         {
           "text": "adam",
-          "confidence": 71,
-          "needs_review": false
+          "confidence": 59,
+          "needs_review": true
         },
         {
           "text": "वित्तीय",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "वर्ष",
           "confidence": 95,
           "needs_review": false
         },
         {
-          "text": "2025-26",
+          "text": "वर्ष",
           "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "2025-26",
+          "confidence": 94,
           "needs_review": false
         },
         {
@@ -335,7 +360,7 @@
           "needs_review": false
         },
         {
-          "text": "प्रथम",
+          "text": "तृतीय",
           "confidence": 93,
           "needs_review": false
         },
@@ -361,17 +386,17 @@
         },
         {
           "text": "झारखण्ड",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "विनियोग",
-          "confidence": 45,
-          "needs_review": true
+          "confidence": 63,
+          "needs_review": false
         },
         {
-          "text": "(संख्या-03)",
-          "confidence": 45,
+          "text": "(संख्या-01)",
+          "confidence": 40,
           "needs_review": true
         },
         {
@@ -380,68 +405,68 @@
           "needs_review": false
         },
         {
-          "text": "2025",
+          "text": "2026",
           "confidence": 96,
           "needs_review": false
         },
         {
           "text": "पर",
-          "confidence": 94,
+          "confidence": 93,
           "needs_review": false
         },
         {
           "text": "माननीय",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "राज्यपाल",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "महोदय",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "द्वारा",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "दिनांक",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
-          "text": "01.09.2025",
-          "confidence": 86,
+          "text": "27.02.2026",
+          "confidence": 92,
           "needs_review": false
         },
         {
           "text": "को",
-          "confidence": 95,
+          "confidence": 94,
           "needs_review": false
         },
         {
           "text": "अनुमति",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "प्रदान",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "कर",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "दी",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
@@ -451,7 +476,7 @@
         },
         {
           "text": "है।",
-          "confidence": 89,
+          "confidence": 90,
           "needs_review": false
         },
         {
@@ -475,8 +500,8 @@
           "needs_review": false
         },
         {
-          "text": "(संख्या-03)",
-          "confidence": 91,
+          "text": "(संख्या-01)",
+          "confidence": 83,
           "needs_review": false
         },
         {
@@ -485,22 +510,22 @@
           "needs_review": false
         },
         {
-          "text": "2025",
+          "text": "2026",
           "confidence": 96,
           "needs_review": false
         },
         {
           "text": "(झारखण्ड",
-          "confidence": 92,
+          "confidence": 93,
           "needs_review": false
         },
         {
-          "text": "अधिनियम-.09,",
-          "confidence": 56,
-          "needs_review": true
+          "text": "अधिनियम-02,",
+          "confidence": 91,
+          "needs_review": false
         },
         {
-          "text": "2025)",
+          "text": "2026)",
           "confidence": 96,
           "needs_review": false
         },
@@ -526,12 +551,12 @@
         },
         {
           "text": "झारखण्ड,",
-          "confidence": 93,
+          "confidence": 92,
           "needs_review": false
         },
         {
-          "text": "Wet",
-          "confidence": 47,
+          "text": "wal",
+          "confidence": 57,
           "needs_review": true
         },
         {
@@ -546,32 +571,37 @@
         },
         {
           "text": "संख्या-एल०",
-          "confidence": 84,
+          "confidence": 85,
           "needs_review": false
         },
         {
-          "text": "जी०-17/",
-          "confidence": 44,
+          "text": "जी०-17",
+          "confidence": 85,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 50,
           "needs_review": true
         },
         {
-          "text": "2006(खंड-11)-39",
-          "confidence": 56,
+          "text": "2006(खंड-11)-05",
+          "confidence": 50,
           "needs_review": true
         },
         {
           "text": "/",
-          "confidence": 92,
+          "confidence": 85,
           "needs_review": false
         },
         {
           "text": "लेज०,",
-          "confidence": 91,
+          "confidence": 90,
           "needs_review": false
         },
         {
-          "text": "दिनांक-02.09.2025",
-          "confidence": 80,
+          "text": "दिनांक-27.02.2026",
+          "confidence": 88,
           "needs_review": false
         },
         {
@@ -596,32 +626,32 @@
         },
         {
           "text": "है।",
-          "confidence": 90,
+          "confidence": 92,
           "needs_review": false
         },
         {
           "text": "अतः",
-          "confidence": 84,
-          "needs_review": false
-        },
-        {
-          "text": "उपरोक्त",
-          "confidence": 50,
-          "needs_review": true
-        },
-        {
-          "text": "विनियोग",
-          "confidence": 91,
-          "needs_review": false
-        },
-        {
-          "text": "अधिनियम",
           "confidence": 96,
           "needs_review": false
         },
         {
+          "text": "उपरोक्त",
+          "confidence": 46,
+          "needs_review": true
+        },
+        {
+          "text": "विनियोग",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "अधिनियम",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
           "text": "के",
-          "confidence": 92,
+          "confidence": 93,
           "needs_review": false
         },
         {
@@ -666,7 +696,7 @@
         },
         {
           "text": "राज्य",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
@@ -676,7 +706,7 @@
         },
         {
           "text": "संचित",
-          "confidence": 91,
+          "confidence": 92,
           "needs_review": false
         },
         {
@@ -706,17 +736,17 @@
         },
         {
           "text": "है।",
-          "confidence": 77,
+          "confidence": 91,
           "needs_review": false
         },
         {
-          "text": "प्रथम",
-          "confidence": 92,
+          "text": "तृतीय",
+          "confidence": 93,
           "needs_review": false
         },
         {
           "text": "अनुपूरक",
-          "confidence": 92,
+          "confidence": 90,
           "needs_review": false
         },
         {
@@ -736,7 +766,7 @@
         },
         {
           "text": "झारनेट",
-          "confidence": 92,
+          "confidence": 90,
           "needs_review": false
         },
         {
@@ -745,13 +775,13 @@
           "needs_review": false
         },
         {
-          "text": "वेबसाईट-#ए5:/",
-          "confidence": 30,
+          "text": "वेबसाईट-1#98:/",
+          "confidence": 15,
           "needs_review": true
         },
         {
-          "text": "/jkuber.",
-          "confidence": 24,
+          "text": "/]6प5९४",
+          "confidence": 16,
           "needs_review": true
         },
         {
@@ -780,28 +810,23 @@
           "needs_review": false
         },
         {
-          "text": "gies",
-          "confidence": 27,
-          "needs_review": true
-        },
-        {
-          "text": ";",
-          "confidence": 42,
+          "text": "vn",
+          "confidence": 26,
           "needs_review": true
         },
         {
           "text": "अनुलग्नक",
-          "confidence": 62,
+          "confidence": 89,
           "needs_review": false
         },
         {
           "text": ":",
-          "confidence": 62,
+          "confidence": 89,
           "needs_review": false
         },
         {
-          "text": "प्रथम",
-          "confidence": 92,
+          "text": "तृतीय",
+          "confidence": 93,
           "needs_review": false
         },
         {
@@ -811,7 +836,7 @@
         },
         {
           "text": "अनुदान",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
@@ -820,14 +845,19 @@
           "needs_review": false
         },
         {
-          "text": "ws",
-          "confidence": 37,
+          "text": "है",
+          "confidence": 79,
+          "needs_review": false
+        },
+        {
+          "text": "ve",
+          "confidence": 31,
           "needs_review": true
         },
         {
           "text": "2025-26",
-          "confidence": 34,
-          "needs_review": true
+          "confidence": 96,
+          "needs_review": false
         },
         {
           "text": "की",
@@ -836,32 +866,27 @@
         },
         {
           "text": "एक",
-          "confidence": 92,
+          "confidence": 93,
           "needs_review": false
         },
         {
           "text": "प्रति।",
-          "confidence": 90,
+          "confidence": 84,
           "needs_review": false
         },
         {
-          "text": "प्रशांत",
-          "confidence": 18,
+          "text": "(शा",
+          "confidence": 39,
           "needs_review": true
         },
         {
-          "text": "ow",
-          "confidence": 69,
-          "needs_review": false
-        },
-        {
-          "text": "(प्रशांत",
-          "confidence": 96,
-          "needs_review": false
+          "text": "(९",
+          "confidence": 54,
+          "needs_review": true
         },
         {
           "text": "कुमार)",
-          "confidence": 96,
+          "confidence": 93,
           "needs_review": false
         },
         {
@@ -876,12 +901,12 @@
         },
         {
           "text": "सचिव",
-          "confidence": 93,
+          "confidence": 63,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 93,
+          "confidence": 90,
           "needs_review": false
         },
         {
@@ -895,62 +920,52 @@
           "needs_review": false
         },
         {
-          "text": "29/",
-          "confidence": 91,
+          "text": "29",
+          "confidence": 96,
           "needs_review": false
         },
         {
-          "text": "बी०्टी०ई०-02/",
+          "text": "#बी०्टीगई०-08",
+          "confidence": 42,
+          "needs_review": true
+        },
+        {
+          "text": "/",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "2025-26",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 61,
+          "needs_review": false
+        },
+        {
+          "text": "...).",
+          "confidence": 35,
+          "needs_review": true
+        },
+        {
+          "text": "AL.",
           "confidence": 0,
           "needs_review": true
         },
         {
-          "text": "2025-26",
-          "confidence": 50,
-          "needs_review": true
-        },
-        {
-          "text": "/",
-          "confidence": 28,
-          "needs_review": true
-        },
-        {
-          "text": ".2:2</",
-          "confidence": 28,
-          "needs_review": true
-        },
-        {
-          "text": "/",
-          "confidence": 34,
-          "needs_review": true
-        },
-        {
-          "text": "बजट,",
-          "confidence": 91,
+          "text": "#/बजट,",
+          "confidence": 62,
           "needs_review": false
         },
         {
-          "text": "राँची,",
-          "confidence": 91,
-          "needs_review": false
+          "text": "Wear,",
+          "confidence": 51,
+          "needs_review": true
         },
         {
           "text": "दिनांक",
-          "confidence": 91,
-          "needs_review": false
-        },
-        {
-          "text": ":",
-          "confidence": 90,
-          "needs_review": false
-        },
-        {
-          "text": "02-09-2025",
-          "confidence": 65,
-          "needs_review": false
-        },
-        {
-          "text": "प्रतिलिपि",
           "confidence": 93,
           "needs_review": false
         },
@@ -960,12 +975,62 @@
           "needs_review": false
         },
         {
+          "text": "24/22)",
+          "confidence": 43,
+          "needs_review": true
+        },
+        {
+          "text": "24",
+          "confidence": 75,
+          "needs_review": false
+        },
+        {
+          "text": "प्रतिलिपि",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
           "text": "राज्यपाल",
           "confidence": 95,
           "needs_review": false
         },
         {
           "text": "के",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "अपर",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "मुख्य",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव",
+          "confidence": 72,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 57,
+          "needs_review": true
+        },
+        {
+          "text": "AAA",
+          "confidence": 48,
+          "needs_review": true
+        },
+        {
+          "text": "के",
           "confidence": 95,
           "needs_review": false
         },
@@ -981,42 +1046,12 @@
         },
         {
           "text": "सचिव",
-          "confidence": 93,
+          "confidence": 92,
           "needs_review": false
         },
         {
           "text": "/",
-          "confidence": 23,
-          "needs_review": true
-        },
-        {
-          "text": "मुख्यमंत्री",
-          "confidence": 56,
-          "needs_review": true
-        },
-        {
-          "text": "के",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "अपर",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "मुख्य",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "सचिव",
-          "confidence": 93,
-          "needs_review": false
-        },
-        {
-          "text": "/",
-          "confidence": 91,
+          "confidence": 89,
           "needs_review": false
         },
         {
@@ -1036,17 +1071,17 @@
         },
         {
           "text": "विधानसभा",
-          "confidence": 93,
+          "confidence": 82,
           "needs_review": false
         },
         {
-          "text": ",/",
-          "confidence": 46,
-          "needs_review": true
+          "text": "/",
+          "confidence": 78,
+          "needs_review": false
         },
         {
           "text": "महानिबंधक,",
-          "confidence": 89,
+          "confidence": 78,
           "needs_review": false
         },
         {
@@ -1056,12 +1091,12 @@
         },
         {
           "text": "उच्च",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "न्यायालय,",
-          "confidence": 36,
+          "confidence": 51,
           "needs_review": true
         },
         {
@@ -1070,7 +1105,7 @@
           "needs_review": false
         },
         {
-          "text": "रॉची",
+          "text": "राँची",
           "confidence": 88,
           "needs_review": false
         },
@@ -1081,12 +1116,12 @@
         },
         {
           "text": "सूचनार्थ",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "एवं",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
@@ -1096,47 +1131,47 @@
         },
         {
           "text": "कार्रवाई",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "हेतु",
           "confidence": 95,
           "needs_review": false
         },
         {
+          "text": "हेतु",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
           "text": "प्रेषित",
-          "confidence": 88,
+          "confidence": 83,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 88,
+          "confidence": 82,
           "needs_review": false
         },
         {
-          "text": "है",
-          "confidence": 27,
+          "text": "()",
+          "confidence": 0,
           "needs_review": true
         },
         {
           "text": "अनुलग्नक",
-          "confidence": 72,
-          "needs_review": false
-        },
-        {
-          "text": ":",
-          "confidence": 72,
-          "needs_review": false
-        },
-        {
-          "text": "प्रथम",
           "confidence": 92,
           "needs_review": false
         },
         {
+          "text": ":",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "तृतीय",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
           "text": "अनुपूरक",
-          "confidence": 90,
+          "confidence": 91,
           "needs_review": false
         },
         {
@@ -1146,32 +1181,32 @@
         },
         {
           "text": "मांगें",
-          "confidence": 95,
+          "confidence": 94,
           "needs_review": false
         },
         {
-          "text": "कर्ण",
-          "confidence": 30,
+          "text": "Lao",
+          "confidence": 27,
           "needs_review": true
         },
         {
           "text": "2025-26",
-          "confidence": 82,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "की",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "एक",
-          "confidence": 93,
+          "confidence": 92,
           "needs_review": false
         },
         {
           "text": "प्रति।",
-          "confidence": 91,
+          "confidence": 92,
           "needs_review": false
         },
         {
@@ -1181,7 +1216,7 @@
         },
         {
           "text": "कुमार)",
-          "confidence": 96,
+          "confidence": 67,
           "needs_review": false
         },
         {
@@ -1196,68 +1231,68 @@
         },
         {
           "text": "सचिव",
-          "confidence": 91,
+          "confidence": 83,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 91,
+          "confidence": 83,
           "needs_review": false
         }
       ],
-      "full_text": "पत्रांक : 29 /बी०टी०ई०--02 / 2025-26 / 624 #/बजट झारखण्ड सरकार वित्त विभाग प्रेषक, प्रशांत कुमार, सरकार के सचिव | सेवा में, सभी अपर मुख्य सचिव, सभी प्रधान सचिव / aaa, सभी विभागाध्यक्ष, झारखण्ड, रांची | विषय : वित्तीय वर्ष 2025-26 के झारखण्ड विनियोग (संख्या--03) अधिनियम, 2025 (झारखण्ड अधिनियम-.09, 2025) द्वारा प्रावधानित राशि के व्यय की अनुमति के संबंध में। महोदय, adam वित्तीय वर्ष 2025-26 के प्रथम अनुपूरक बजट से संबंधित झारखण्ड विनियोग (संख्या-03) विधेयक, 2025 पर माननीय राज्यपाल महोदय द्वारा दिनांक 01.09.2025 को अनुमति प्रदान कर दी गई है। इससे संबंधित झारखण्ड विनियोग (संख्या-03) अधिनियम, 2025 (झारखण्ड अधिनियम-.09, 2025) का प्रकाशन विधि विभाग, झारखण्ड, Wet की अधिसूचना संख्या-एल० जी०-17/ 2006(खंड-11)-39 / लेज०, दिनांक-02.09.2025 द्वारा किया जा चुका है। अतः उपरोक्त विनियोग अधिनियम के तहत्‌ किये गये बजट प्रावधान का व्यय नियमानुसार राज्य की संचित निधि से किया जा सकता है। प्रथम अनुपूरक अनुदानों की मांगें झारनेट की वेबसाईट-#ए5:/ /jkuber. jharkhand.gov.in/budgetjhr पर भी उपलब्ध है। gies ; अनुलग्नक : प्रथम अनुपूरक अनुदान मांगें ws 2025-26 की एक प्रति। प्रशांत ow (प्रशांत कुमार) सरकार के सचिव | ज्ञापांक : 29/ बी०्टी०ई०-02/ 2025-26 / .2:2</ / बजट, राँची, दिनांक : 02-09-2025 प्रतिलिपि : राज्यपाल के अपर मुख्य सचिव / मुख्यमंत्री के अपर मुख्य सचिव / प्रभारी सचिव, झारखण्ड विधानसभा ,/ महानिबंधक, झारखण्ड उच्च न्यायालय, झारखण्ड, रॉची को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | है अनुलग्नक : प्रथम अनुपूरक अनुदान मांगें कर्ण 2025-26 की एक प्रति। (प्रशांत कुमार) सरकार के सचिव |",
+      "full_text": "Wain : 29/ बी०्टी०ई०--08 / 2025-26 / ..ढ..2.६2......// बजट झारखण्ड सरकार वित्त विभाग प्रेषक, प्रशांत कुमार, सरकार के सचिव | सेवा में, सभी अपर मुख्य सचिव, सभी प्रधान सचिव /सचिव, सभी विभागाध्यक्ष, झारखण्ड, Way | Wa, दिनांक : 2.9 |02/26 विषय : वित्तीय वर्ष 2025-26 के झारखण्ड विनियोग (संख्या-04) अधिनियम, 2026 (झारखण्ड अधिनियम-02, 2026) द्वारा प्रावधानित राशि के व्यय की अनुमति के संबंध में । महोदय, adam वित्तीय वर्ष 2025-26 के तृतीय अनुपूरक बजट से संबंधित झारखण्ड विनियोग (संख्या-01) विधेयक, 2026 पर माननीय राज्यपाल महोदय द्वारा दिनांक 27.02.2026 को अनुमति प्रदान कर दी गई है। इससे संबंधित झारखण्ड विनियोग (संख्या-01) अधिनियम, 2026 (झारखण्ड अधिनियम-02, 2026) का प्रकाशन विधि विभाग, झारखण्ड, wal की अधिसूचना संख्या-एल० जी०-17 / 2006(खंड-11)-05 / लेज०, दिनांक-27.02.2026 द्वारा किया जा चुका है। अतः उपरोक्त विनियोग अधिनियम के तहत्‌ किये गये बजट प्रावधान का व्यय नियमानुसार राज्य की संचित निधि से किया जा सकता है। तृतीय अनुपूरक अनुदानों की मांगें झारनेट की वेबसाईट-1#98:/ /]6प5९४ jharkhand.gov.in/budgetjhr पर भी उपलब्ध है। vn अनुलग्नक : तृतीय अनुपूरक अनुदान मांगें है ve 2025-26 की एक प्रति। (शा (९ कुमार) सरकार के सचिव | ज्ञापांक : 29 #बी०्टीगई०-08 / 2025-26 / ...). AL. #/बजट, Wear, दिनांक : 24/22) 24 प्रतिलिपि : राज्यपाल के अपर मुख्य सचिव / AAA के अपर मुख्य सचिव / प्रभारी सचिव, झारखण्ड विधानसभा / महानिबंधक, झारखण्ड उच्च न्यायालय, झारखण्ड, राँची को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | () अनुलग्नक : तृतीय अनुपूरक अनुदान मांगें Lao 2025-26 की एक प्रति। (प्रशांत कुमार) सरकार के सचिव |",
       "page": 1
     },
     {
       "words": [
         {
           "text": "ज्ञापांक",
-          "confidence": 88,
+          "confidence": 87,
           "needs_review": false
         },
         {
           "text": ":",
-          "confidence": 88,
+          "confidence": 87,
           "needs_review": false
         },
         {
-          "text": "29/बी०्टीणई०-02,/",
-          "confidence": 9,
+          "text": "29//बी०्टीगई०-08",
+          "confidence": 31,
           "needs_review": true
         },
         {
+          "text": "/",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
           "text": "2025-26",
-          "confidence": 89,
+          "confidence": 91,
           "needs_review": false
         },
         {
           "text": "/",
-          "confidence": 73,
+          "confidence": 88,
           "needs_review": false
         },
         {
-          "text": "...2",
-          "confidence": 6,
-          "needs_review": true
+          "text": ".../.2.2....../",
+          "confidence": 68,
+          "needs_review": false
         },
         {
-          "text": "21",
-          "confidence": 23,
-          "needs_review": true
-        },
-        {
-          "text": "/बजट,",
-          "confidence": 67,
+          "text": "बजट,",
+          "confidence": 91,
           "needs_review": false
         },
         {
           "text": "राँची,",
-          "confidence": 88,
+          "confidence": 91,
           "needs_review": false
         },
         {
           "text": "दिनांक",
-          "confidence": 88,
+          "confidence": 93,
           "needs_review": false
         },
         {
@@ -1266,14 +1301,9 @@
           "needs_review": false
         },
         {
-          "text": "02,09°",
-          "confidence": 5,
+          "text": "23)02)246",
+          "confidence": 0,
           "needs_review": true
-        },
-        {
-          "text": "2075",
-          "confidence": 68,
-          "needs_review": false
         },
         {
           "text": "प्रतिलिपि",
@@ -1297,12 +1327,12 @@
         },
         {
           "text": "मुख्य",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "सचिव,",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
@@ -1322,7 +1352,7 @@
         },
         {
           "text": "राँची",
-          "confidence": 84,
+          "confidence": 77,
           "needs_review": false
         },
         {
@@ -1347,72 +1377,67 @@
         },
         {
           "text": "कार्रवाई",
-          "confidence": 96,
+          "confidence": 94,
           "needs_review": false
         },
         {
           "text": "हेतु",
-          "confidence": 94,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "प्रेषित",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "|",
           "confidence": 94,
           "needs_review": false
         },
         {
-          "text": "Qed",
-          "confidence": 0,
-          "needs_review": true
-        },
-        {
-          "text": "अनुलग्नक",
-          "confidence": 80,
-          "needs_review": false
-        },
-        {
-          "text": ":",
-          "confidence": 91,
-          "needs_review": false
-        },
-        {
-          "text": "प्रथम",
-          "confidence": 93,
-          "needs_review": false
-        },
-        {
-          "text": "अनुपूरक",
+          "text": "|",
           "confidence": 89,
           "needs_review": false
         },
         {
-          "text": "अनुदान",
-          "confidence": 96,
+          "text": "Ve",
+          "confidence": 61,
           "needs_review": false
         },
         {
-          "text": "मांगें",
+          "text": "अनुलग्नक",
+          "confidence": 70,
+          "needs_review": false
+        },
+        {
+          "text": ":",
           "confidence": 92,
           "needs_review": false
         },
         {
-          "text": "कहा",
-          "confidence": 45,
-          "needs_review": true
+          "text": "तृतीय",
+          "confidence": 92,
+          "needs_review": false
         },
         {
-          "text": "4",
+          "text": "अनुपूरक",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "अनुदान",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "मांगें",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "Ve",
           "confidence": 56,
           "needs_review": true
         },
         {
           "text": "2025-26",
-          "confidence": 94,
+          "confidence": 96,
           "needs_review": false
         },
         {
@@ -1426,9 +1451,14 @@
           "needs_review": false
         },
         {
-          "text": "प्रति।",
-          "confidence": 91,
-          "needs_review": false
+          "text": "Ufa",
+          "confidence": 28,
+          "needs_review": true
+        },
+        {
+          "text": "|",
+          "confidence": 28,
+          "needs_review": true
         },
         {
           "text": "(प्रशांत",
@@ -1452,62 +1482,72 @@
         },
         {
           "text": "सचिव",
-          "confidence": 94,
+          "confidence": 87,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 94,
+          "confidence": 87,
           "needs_review": false
         },
         {
           "text": "ज्ञापांक",
-          "confidence": 83,
-          "needs_review": false
-        },
-        {
-          "text": ":",
           "confidence": 88,
           "needs_review": false
         },
         {
-          "text": "29//बी०्टीणई०-02/",
-          "confidence": 34,
+          "text": ":",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "29,//बी०्टी०ई०-08",
+          "confidence": 44,
           "needs_review": true
         },
         {
+          "text": "/",
+          "confidence": 88,
+          "needs_review": false
+        },
+        {
           "text": "2025-26",
-          "confidence": 78,
+          "confidence": 91,
           "needs_review": false
         },
         {
           "text": "/",
-          "confidence": 78,
+          "confidence": 91,
           "needs_review": false
         },
         {
-          "text": "...(2.2.4...//बजट,",
-          "confidence": 24,
+          "text": "..!2.9.......//",
+          "confidence": 40,
           "needs_review": true
         },
         {
+          "text": "बजट,",
+          "confidence": 88,
+          "needs_review": false
+        },
+        {
           "text": "राँची,",
-          "confidence": 92,
+          "confidence": 88,
           "needs_review": false
         },
         {
           "text": "दिनांक",
-          "confidence": 84,
+          "confidence": 91,
           "needs_review": false
         },
         {
           "text": ":",
-          "confidence": 79,
+          "confidence": 91,
           "needs_review": false
         },
         {
-          "text": "0209-2025",
-          "confidence": 23,
+          "text": "22/02/24",
+          "confidence": 27,
           "needs_review": true
         },
         {
@@ -1517,7 +1557,7 @@
         },
         {
           "text": ":",
-          "confidence": 93,
+          "confidence": 92,
           "needs_review": false
         },
         {
@@ -1527,22 +1567,22 @@
         },
         {
           "text": "महालेखाकार",
-          "confidence": 91,
-          "needs_review": false
-        },
-        {
-          "text": "(लेखा",
-          "confidence": 95,
-          "needs_review": false
-        },
-        {
-          "text": "एवं",
           "confidence": 92,
           "needs_review": false
         },
         {
+          "text": "(लेखा",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "एवं",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
           "text": "हकदारी),",
-          "confidence": 91,
+          "confidence": 90,
           "needs_review": false
         },
         {
@@ -1551,8 +1591,8 @@
           "needs_review": false
         },
         {
-          "text": "राँची",
-          "confidence": 91,
+          "text": "wel",
+          "confidence": 65,
           "needs_review": false
         },
         {
@@ -1562,7 +1602,7 @@
         },
         {
           "text": "सूचनार्थ",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
@@ -1577,46 +1617,41 @@
         },
         {
           "text": "कार्रवाई",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "हेतु",
-          "confidence": 94,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "प्रेषित",
-          "confidence": 96,
+          "confidence": 94,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 93,
+          "confidence": 92,
           "needs_review": false
         },
         {
-          "text": "के",
-          "confidence": 34,
-          "needs_review": true
-        },
-        {
-          "text": "ans",
-          "confidence": 48,
+          "text": "Qa",
+          "confidence": 40,
           "needs_review": true
         },
         {
           "text": "अनुलग्नक",
-          "confidence": 91,
+          "confidence": 90,
           "needs_review": false
         },
         {
           "text": ":",
-          "confidence": 93,
+          "confidence": 92,
           "needs_review": false
         },
         {
-          "text": "प्रथम",
+          "text": "तृतीय",
           "confidence": 93,
           "needs_review": false
         },
@@ -1627,22 +1662,22 @@
         },
         {
           "text": "अनुदान",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
-          "text": "Art",
-          "confidence": 71,
+          "text": "मांगें",
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "2025-26",
-          "confidence": 46,
-          "needs_review": true
+          "confidence": 95,
+          "needs_review": false
         },
         {
-          "text": "Vs",
-          "confidence": 40,
+          "text": "4८",
+          "confidence": 59,
           "needs_review": true
         },
         {
@@ -1657,7 +1692,7 @@
         },
         {
           "text": "प्रतियाँ,",
-          "confidence": 91,
+          "confidence": 90,
           "needs_review": false
         },
         {
@@ -1667,7 +1702,7 @@
         },
         {
           "text": "विनियोग",
-          "confidence": 91,
+          "confidence": 92,
           "needs_review": false
         },
         {
@@ -1681,8 +1716,8 @@
           "needs_review": false
         },
         {
-          "text": "(संख्या-03)",
-          "confidence": 81,
+          "text": "(संख्या-01)",
+          "confidence": 85,
           "needs_review": false
         },
         {
@@ -1691,8 +1726,8 @@
           "needs_review": false
         },
         {
-          "text": "2025",
-          "confidence": 95,
+          "text": "2026",
+          "confidence": 96,
           "needs_review": false
         },
         {
@@ -1702,7 +1737,7 @@
         },
         {
           "text": "सरकार",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
@@ -1712,13 +1747,83 @@
         },
         {
           "text": "सचिव",
-          "confidence": 87,
+          "confidence": 76,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 87,
+          "confidence": 76,
           "needs_review": false
+        },
+        {
+          "text": "ज्ञापांक",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "29/",
+          "confidence": 84,
+          "needs_review": false
+        },
+        {
+          "text": "बी०्टी०ई०-08",
+          "confidence": 71,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "2025-26",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "...!..2९......//",
+          "confidence": 50,
+          "needs_review": true
+        },
+        {
+          "text": "बजट,",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "राँची,",
+          "confidence": 85,
+          "needs_review": false
+        },
+        {
+          "text": "दिनांक",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "2.2/9}",
+          "confidence": 64,
+          "needs_review": false
+        },
+        {
+          "text": "Uw",
+          "confidence": 46,
+          "needs_review": true
         },
         {
           "text": "प्रतिलिपि",
@@ -1727,7 +1832,7 @@
         },
         {
           "text": ":",
-          "confidence": 93,
+          "confidence": 90,
           "needs_review": false
         },
         {
@@ -1737,13 +1842,13 @@
         },
         {
           "text": "कोषागार",
-          "confidence": 91,
+          "confidence": 90,
           "needs_review": false
         },
         {
-          "text": "//उप-कोषागार",
-          "confidence": 46,
-          "needs_review": true
+          "text": "/उप-कोषागार",
+          "confidence": 66,
+          "needs_review": false
         },
         {
           "text": "पदाधिकारी,",
@@ -1777,73 +1882,68 @@
         },
         {
           "text": "कार्रवाई",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "हेतु",
-          "confidence": 95,
+          "confidence": 94,
           "needs_review": false
         },
         {
           "text": "प्रेषित",
-          "confidence": 95,
+          "confidence": 86,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 95,
+          "confidence": 69,
           "needs_review": false
         },
         {
-          "text": "Fad",
-          "confidence": 46,
-          "needs_review": true
-        },
-        {
-          "text": "ea",
-          "confidence": 48,
-          "needs_review": true
-        },
-        {
-          "text": "220४४",
-          "confidence": 54,
+          "text": "की",
+          "confidence": 20,
           "needs_review": true
         },
         {
           "text": "अनुलग्नक",
-          "confidence": 80,
+          "confidence": 85,
           "needs_review": false
         },
         {
           "text": ":",
-          "confidence": 80,
+          "confidence": 85,
           "needs_review": false
         },
         {
-          "text": "प्रथम",
-          "confidence": 92,
+          "text": "तृतीय",
+          "confidence": 93,
           "needs_review": false
         },
         {
           "text": "अनुपूरक",
-          "confidence": 91,
-          "needs_review": false
-        },
-        {
-          "text": "अनुदान",
-          "confidence": 95,
-          "needs_review": false
-        },
-        {
-          "text": "मांगें",
           "confidence": 92,
           "needs_review": false
         },
         {
-          "text": "प्रशांत",
-          "confidence": 89,
+          "text": "अनुदान",
+          "confidence": 94,
           "needs_review": false
+        },
+        {
+          "text": "मांगें",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "aie",
+          "confidence": 42,
+          "needs_review": true
+        },
+        {
+          "text": "मार",
+          "confidence": 11,
+          "needs_review": true
         },
         {
           "text": "2025-26",
@@ -1862,12 +1962,12 @@
         },
         {
           "text": "प्रति।",
-          "confidence": 90,
+          "confidence": 91,
           "needs_review": false
         },
         {
-          "text": "(Git",
-          "confidence": 62,
+          "text": "(प्रशांत",
+          "confidence": 95,
           "needs_review": false
         },
         {
@@ -1882,72 +1982,77 @@
         },
         {
           "text": "के",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "सचिव",
-          "confidence": 63,
-          "needs_review": false
+          "confidence": 44,
+          "needs_review": true
         },
         {
           "text": "|",
-          "confidence": 91,
+          "confidence": 92,
           "needs_review": false
         },
         {
           "text": "ज्ञापांक",
-          "confidence": 89,
+          "confidence": 84,
           "needs_review": false
         },
         {
           "text": ":",
-          "confidence": 89,
+          "confidence": 84,
           "needs_review": false
         },
         {
-          "text": "29,/",
-          "confidence": 76,
-          "needs_review": false
-        },
-        {
-          "text": "बी०्टी०ई०-02",
-          "confidence": 50,
+          "text": "29/बी०्टी०वई०-08",
+          "confidence": 26,
           "needs_review": true
         },
         {
           "text": "/",
-          "confidence": 92,
+          "confidence": 84,
           "needs_review": false
         },
         {
           "text": "2025-26",
-          "confidence": 92,
+          "confidence": 86,
           "needs_review": false
         },
         {
-          "text": "/.G2Y.....",
-          "confidence": 29,
+          "text": "/",
+          "confidence": 81,
+          "needs_review": false
+        },
+        {
+          "text": ".../.22......//",
+          "confidence": 41,
           "needs_review": true
         },
         {
-          "text": "/aHe,",
-          "confidence": 42,
-          "needs_review": true
+          "text": "बजट,",
+          "confidence": 91,
+          "needs_review": false
         },
         {
           "text": "राँची,",
-          "confidence": 88,
+          "confidence": 82,
           "needs_review": false
         },
         {
           "text": "दिनांक",
-          "confidence": 90,
+          "confidence": 92,
           "needs_review": false
         },
         {
-          "text": ":02.09°2075",
-          "confidence": 17,
+          "text": ":",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "2/02/24",
+          "confidence": 42,
           "needs_review": true
         },
         {
@@ -1962,37 +2067,32 @@
         },
         {
           "text": "सभी",
-          "confidence": 92,
+          "confidence": 93,
           "needs_review": false
         },
         {
           "text": "प्रमंडलीय",
-          "confidence": 92,
+          "confidence": 90,
           "needs_review": false
         },
         {
           "text": "आयुक्त",
-          "confidence": 74,
+          "confidence": 82,
           "needs_review": false
         },
         {
-          "text": "/",
-          "confidence": 83,
-          "needs_review": false
-        },
-        {
-          "text": "सभी",
-          "confidence": 96,
+          "text": "/सभी",
+          "confidence": 87,
           "needs_review": false
         },
         {
           "text": "उपायुक्त",
-          "confidence": 35,
+          "confidence": 8,
           "needs_review": true
         },
         {
-          "text": "/",
-          "confidence": 51,
+          "text": ",/",
+          "confidence": 49,
           "needs_review": true
         },
         {
@@ -2001,23 +2101,13 @@
           "needs_review": false
         },
         {
-          "text": "उप-",
+          "text": "उप-विकास",
           "confidence": 91,
           "needs_review": false
         },
         {
-          "text": "Ny",
-          "confidence": 77,
-          "needs_review": false
-        },
-        {
-          "text": "ma",
-          "confidence": 49,
-          "needs_review": true
-        },
-        {
           "text": "आयुक्त",
-          "confidence": 26,
+          "confidence": 0,
           "needs_review": true
         },
         {
@@ -2042,27 +2132,22 @@
         },
         {
           "text": "कार्यार्थ",
-          "confidence": 64,
+          "confidence": 86,
           "needs_review": false
         },
         {
           "text": "प्रेषित",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 93,
+          "confidence": 94,
           "needs_review": false
         },
         {
-          "text": "yt",
-          "confidence": 33,
-          "needs_review": true
-        },
-        {
-          "text": "lye",
-          "confidence": 34,
+          "text": "colt",
+          "confidence": 37,
           "needs_review": true
         },
         {
@@ -2087,27 +2172,37 @@
         },
         {
           "text": "सचिव",
-          "confidence": 43,
+          "confidence": 12,
           "needs_review": true
         },
         {
           "text": "|",
-          "confidence": 81,
+          "confidence": 77,
           "needs_review": false
         },
         {
           "text": "ज्ञापांक",
-          "confidence": 90,
+          "confidence": 92,
           "needs_review": false
         },
         {
           "text": ":",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "29",
           "confidence": 93,
           "needs_review": false
         },
         {
-          "text": "29,//बी०्टी०णई०--02",
-          "confidence": 0,
+          "text": "/",
+          "confidence": 67,
+          "needs_review": false
+        },
+        {
+          "text": "बी०्टीणई०-08",
+          "confidence": 56,
           "needs_review": true
         },
         {
@@ -2117,28 +2212,28 @@
         },
         {
           "text": "2025-26",
-          "confidence": 44,
-          "needs_review": true
-        },
-        {
-          "text": "/",
-          "confidence": 90,
-          "needs_review": false
-        },
-        {
-          "text": "624",
           "confidence": 93,
           "needs_review": false
         },
         {
-          "text": "/बजट,",
-          "confidence": 56,
+          "text": "/",
+          "confidence": 84,
+          "needs_review": false
+        },
+        {
+          "text": "..(:२22......,/",
+          "confidence": 46,
           "needs_review": true
         },
         {
-          "text": "Wear,",
-          "confidence": 59,
+          "text": "बजट,",
+          "confidence": 54,
           "needs_review": true
+        },
+        {
+          "text": "राँची,",
+          "confidence": 90,
+          "needs_review": false
         },
         {
           "text": "दिनांक",
@@ -2147,22 +2242,17 @@
         },
         {
           "text": ":",
-          "confidence": 91,
+          "confidence": 92,
           "needs_review": false
         },
         {
-          "text": "tn",
-          "confidence": 14,
-          "needs_review": true
-        },
-        {
-          "text": "gill",
-          "confidence": 1,
+          "text": "2A[02/24",
+          "confidence": 19,
           "needs_review": true
         },
         {
           "text": "प्रतिलिपि",
-          "confidence": 90,
+          "confidence": 60,
           "needs_review": false
         },
         {
@@ -2191,23 +2281,18 @@
           "needs_review": false
         },
         {
-          "text": "/",
-          "confidence": 45,
-          "needs_review": true
-        },
-        {
-          "text": "निदेशक,",
-          "confidence": 93,
+          "text": "/निदेशक,",
+          "confidence": 85,
           "needs_review": false
         },
         {
           "text": "पेंशन",
-          "confidence": 93,
+          "confidence": 95,
           "needs_review": false
         },
         {
           "text": "एवं",
-          "confidence": 96,
+          "confidence": 95,
           "needs_review": false
         },
         {
@@ -2217,7 +2302,7 @@
         },
         {
           "text": "निदेशालय»",
-          "confidence": 70,
+          "confidence": 63,
           "needs_review": false
         },
         {
@@ -2232,7 +2317,7 @@
         },
         {
           "text": "सांस्थिक",
-          "confidence": 89,
+          "confidence": 90,
           "needs_review": false
         },
         {
@@ -2246,23 +2331,18 @@
           "needs_review": false
         },
         {
-          "text": "/अंकेक्षण",
-          "confidence": 76,
-          "needs_review": false
-        },
-        {
-          "text": "निदेशालय",
-          "confidence": 93,
-          "needs_review": false
-        },
-        {
-          "text": "»/",
-          "confidence": 51,
+          "text": "»अंकेक्षण",
+          "confidence": 57,
           "needs_review": true
         },
         {
-          "text": "सभी",
-          "confidence": 66,
+          "text": "निदेशालय",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "/सभी",
+          "confidence": 73,
           "needs_review": false
         },
         {
@@ -2272,7 +2352,7 @@
         },
         {
           "text": "वित्त",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
@@ -2286,8 +2366,8 @@
           "needs_review": false
         },
         {
-          "text": "Wel",
-          "confidence": 67,
+          "text": "Weal",
+          "confidence": 70,
           "needs_review": false
         },
         {
@@ -2307,7 +2387,7 @@
         },
         {
           "text": "आवश्यक",
-          "confidence": 95,
+          "confidence": 94,
           "needs_review": false
         },
         {
@@ -2317,42 +2397,32 @@
         },
         {
           "text": "हेतु",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "प्रेषित",
-          "confidence": 93,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 93,
+          "confidence": 91,
           "needs_review": false
         },
         {
-          "text": "oi",
-          "confidence": 23,
-          "needs_review": true
-        },
-        {
-          "text": "५2",
-          "confidence": 12,
-          "needs_review": true
-        },
-        {
           "text": "अनुलग्नक",
-          "confidence": 85,
+          "confidence": 80,
           "needs_review": false
         },
         {
           "text": ":",
-          "confidence": 85,
+          "confidence": 80,
           "needs_review": false
         },
         {
-          "text": "प्रथम",
-          "confidence": 92,
+          "text": "तृतीय",
+          "confidence": 93,
           "needs_review": false
         },
         {
@@ -2362,32 +2432,32 @@
         },
         {
           "text": "अनुदान",
-          "confidence": 95,
-          "needs_review": false
-        },
-        {
-          "text": "मांगें",
-          "confidence": 93,
-          "needs_review": false
-        },
-        {
-          "text": "(प्रशांत",
           "confidence": 96,
           "needs_review": false
         },
         {
+          "text": "मांगें",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "(प्रशांत",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
           "text": "कुमार)",
-          "confidence": 84,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "2025-26",
-          "confidence": 87,
+          "confidence": 94,
           "needs_review": false
         },
         {
           "text": "की",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
@@ -2397,27 +2467,22 @@
         },
         {
           "text": "प्रति।",
-          "confidence": 93,
+          "confidence": 87,
           "needs_review": false
         },
         {
-          "text": "सरकार",
-          "confidence": 96,
-          "needs_review": false
+          "text": "ae",
+          "confidence": 35,
+          "needs_review": true
         },
         {
-          "text": "के",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "सचिव",
-          "confidence": 88,
-          "needs_review": false
+          "text": "हा",
+          "confidence": 15,
+          "needs_review": true
         },
         {
           "text": "|",
-          "confidence": 88,
+          "confidence": 83,
           "needs_review": false
         },
         {
@@ -2427,77 +2492,72 @@
         },
         {
           "text": ":",
-          "confidence": 93,
+          "confidence": 91,
           "needs_review": false
         },
         {
           "text": "29/",
-          "confidence": 86,
+          "confidence": 67,
           "needs_review": false
         },
         {
-          "text": "बी०्टी०ई०-02/",
-          "confidence": 21,
-          "needs_review": true
-        },
-        {
-          "text": "2025-26",
-          "confidence": 57,
-          "needs_review": true
+          "text": "बी०्टी०ई०-08",
+          "confidence": 65,
+          "needs_review": false
         },
         {
           "text": "/",
-          "confidence": 72,
-          "needs_review": false
-        },
-        {
-          "text": "2.22",
-          "confidence": 58,
-          "needs_review": true
-        },
-        {
-          "text": "/बजट,",
-          "confidence": 82,
-          "needs_review": false
-        },
-        {
-          "text": "We,",
-          "confidence": 69,
-          "needs_review": false
-        },
-        {
-          "text": "दिनांक",
-          "confidence": 85,
-          "needs_review": false
-        },
-        {
-          "text": ":",
-          "confidence": 85,
-          "needs_review": false
-        },
-        {
-          "text": "02-05°",
-          "confidence": 55,
-          "needs_review": true
-        },
-        {
-          "text": "7°",
-          "confidence": 60,
-          "needs_review": false
-        },
-        {
-          "text": "25",
-          "confidence": 57,
-          "needs_review": true
-        },
-        {
-          "text": "प्रतिलिपि",
           "confidence": 61,
           "needs_review": false
         },
         {
+          "text": "2025-26",
+          "confidence": 61,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 86,
+          "needs_review": false
+        },
+        {
+          "text": "...(.2.2......//",
+          "confidence": 29,
+          "needs_review": true
+        },
+        {
+          "text": "बजट,",
+          "confidence": 46,
+          "needs_review": true
+        },
+        {
+          "text": "राँची,",
+          "confidence": 86,
+          "needs_review": false
+        },
+        {
+          "text": "दिनांक",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
           "text": ":",
-          "confidence": 93,
+          "confidence": 88,
+          "needs_review": false
+        },
+        {
+          "text": "22/02/24",
+          "confidence": 63,
+          "needs_review": false
+        },
+        {
+          "text": "प्रतिलिपि",
+          "confidence": 89,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 92,
           "needs_review": false
         },
         {
@@ -2511,8 +2571,8 @@
           "needs_review": false
         },
         {
-          "text": "पी०एम०यू०,",
-          "confidence": 76,
+          "text": "पी०एमग्यू०,",
+          "confidence": 66,
           "needs_review": false
         },
         {
@@ -2531,8 +2591,8 @@
           "needs_review": false
         },
         {
-          "text": "राँची",
-          "confidence": 90,
+          "text": "रॉची",
+          "confidence": 77,
           "needs_review": false
         },
         {
@@ -2542,7 +2602,7 @@
         },
         {
           "text": "सूचनार्थ",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
@@ -2552,7 +2612,7 @@
         },
         {
           "text": "विभागीय",
-          "confidence": 96,
+          "confidence": 93,
           "needs_review": false
         },
         {
@@ -2577,42 +2637,37 @@
         },
         {
           "text": "निमित",
-          "confidence": 92,
+          "confidence": 91,
           "needs_review": false
         },
         {
           "text": "प्रेषित",
-          "confidence": 0,
-          "needs_review": true
+          "confidence": 66,
+          "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 54,
-          "needs_review": true
+          "confidence": 72,
+          "needs_review": false
         },
         {
-          "text": "कक",
-          "confidence": 32,
-          "needs_review": true
-        },
-        {
-          "text": "ae",
-          "confidence": 58,
-          "needs_review": true
+          "text": "Y",
+          "confidence": 67,
+          "needs_review": false
         },
         {
           "text": "अनुलग्नक",
-          "confidence": 86,
+          "confidence": 87,
           "needs_review": false
         },
         {
           "text": ":",
-          "confidence": 86,
+          "confidence": 87,
           "needs_review": false
         },
         {
-          "text": "प्रथम",
-          "confidence": 93,
+          "text": "तृतीय",
+          "confidence": 92,
           "needs_review": false
         },
         {
@@ -2622,53 +2677,38 @@
         },
         {
           "text": "अनुदान",
-          "confidence": 94,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "मांगें",
-          "confidence": 89,
+          "confidence": 94,
           "needs_review": false
         },
         {
-          "text": "(प्रशांत",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "कुमार)",
-          "confidence": 73,
-          "needs_review": false
-        },
-        {
-          "text": "2025-26",
-          "confidence": 16,
+          "text": "wens",
+          "confidence": 38,
           "needs_review": true
         },
         {
-          "text": "की",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "एक",
-          "confidence": 96,
-          "needs_review": false
-        },
-        {
-          "text": "प्रति",
+          "text": "2025-26",
           "confidence": 95,
           "needs_review": false
         },
         {
-          "text": "दर",
-          "confidence": 33,
-          "needs_review": true
+          "text": "की",
+          "confidence": 87,
+          "needs_review": false
         },
         {
-          "text": "|",
-          "confidence": 35,
-          "needs_review": true
+          "text": "एक",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "प्रति।",
+          "confidence": 91,
+          "needs_review": false
         },
         {
           "text": "सरकार",
@@ -2677,21 +2717,21 @@
         },
         {
           "text": "के",
-          "confidence": 95,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "सचिव",
-          "confidence": 79,
+          "confidence": 96,
           "needs_review": false
         },
         {
           "text": "|",
-          "confidence": 79,
+          "confidence": 90,
           "needs_review": false
         }
       ],
-      "full_text": "ज्ञापांक : 29/बी०्टीणई०-02,/ 2025-26 / ...2 21 /बजट, राँची, दिनांक : 02,09° 2075 प्रतिलिपि : संयुक्त सचिव, मुख्य सचिव, झारखण्ड का कार्यालय, राँची को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | Qed अनुलग्नक : प्रथम अनुपूरक अनुदान मांगें कहा 4 2025-26 की एक प्रति। (प्रशांत कुमार) सरकार के सचिव | ज्ञापांक : 29//बी०्टीणई०-02/ 2025-26 / ...(2.2.4...//बजट, राँची, दिनांक : 0209-2025 प्रतिलिपि : प्रधान महालेखाकार (लेखा एवं हकदारी), झारखण्ड, राँची को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | के ans अनुलग्नक : प्रथम अनुपूरक अनुदान Art 2025-26 Vs की पाँच प्रतियाँ, झारखण्ड विनियोग (प्रशांत कुमार) (संख्या-03) विधेयक, 2025 | सरकार के सचिव | प्रतिलिपि : सभी कोषागार //उप-कोषागार पदाधिकारी, झारखण्ड को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | Fad ea 220४४ अनुलग्नक : प्रथम अनुपूरक अनुदान मांगें प्रशांत 2025-26 की एक प्रति। (Git कुमार) सरकार के सचिव | ज्ञापांक : 29,/ बी०्टी०ई०-02 / 2025-26 /.G2Y..... /aHe, राँची, दिनांक :02.09°2075 प्रतिलिपि : सभी प्रमंडलीय आयुक्त / सभी उपायुक्त / सभी उप- Ny ma आयुक्त को सूचनार्थ एवं आवश्यक कार्यार्थ प्रेषित | yt lye (प्रशांत कुमार) सरकार के सचिव | ज्ञापांक : 29,//बी०्टी०णई०--02 / 2025-26 / 624 /बजट, Wear, दिनांक : tn gill प्रतिलिपि : सचिव, राज्य वित्त आयोग / निदेशक, पेंशन एवं लेखा निदेशालय» कोषागार एवं सांस्थिक वित्त निदेशालय /अंकेक्षण निदेशालय »/ सभी पदाधिकारी, वित्त विभाग झारखण्ड, Wel को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | oi ५2 अनुलग्नक : प्रथम अनुपूरक अनुदान मांगें (प्रशांत कुमार) 2025-26 की एक प्रति। सरकार के सचिव | ज्ञापांक : 29/ बी०्टी०ई०-02/ 2025-26 / 2.22 /बजट, We, दिनांक : 02-05° 7° 25 प्रतिलिपि : उप सचिव, पी०एम०यू०, वित्त विभाग, झारखण्ड, राँची को सूचनार्थ एवं विभागीय website पर uploading के निमित प्रेषित | कक ae अनुलग्नक : प्रथम अनुपूरक अनुदान मांगें (प्रशांत कुमार) 2025-26 की एक प्रति दर | सरकार के सचिव |",
+      "full_text": "ज्ञापांक : 29//बी०्टीगई०-08 / 2025-26 / .../.2.2....../ बजट, राँची, दिनांक : 23)02)246 प्रतिलिपि : संयुक्त सचिव, मुख्य सचिव, झारखण्ड का कार्यालय, राँची को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | Ve अनुलग्नक : तृतीय अनुपूरक अनुदान मांगें Ve 2025-26 की एक Ufa | (प्रशांत कुमार) सरकार के सचिव | ज्ञापांक : 29,//बी०्टी०ई०-08 / 2025-26 / ..!2.9.......// बजट, राँची, दिनांक : 22/02/24 प्रतिलिपि : प्रधान महालेखाकार (लेखा एवं हकदारी), झारखण्ड, wel को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | Qa अनुलग्नक : तृतीय अनुपूरक अनुदान मांगें 2025-26 4८ की पाँच प्रतियाँ, झारखण्ड विनियोग (प्रशांत कुमार) (संख्या-01) विधेयक, 2026 | सरकार के सचिव | ज्ञापांक : 29/ बी०्टी०ई०-08 / 2025-26 / ...!..2९......// बजट, राँची, दिनांक : 2.2/9} Uw प्रतिलिपि : सभी कोषागार /उप-कोषागार पदाधिकारी, झारखण्ड को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | की अनुलग्नक : तृतीय अनुपूरक अनुदान मांगें aie मार 2025-26 की एक प्रति। (प्रशांत कुमार) सरकार के सचिव | ज्ञापांक : 29/बी०्टी०वई०-08 / 2025-26 / .../.22......// बजट, राँची, दिनांक : 2/02/24 प्रतिलिपि : सभी प्रमंडलीय आयुक्त /सभी उपायुक्त ,/ सभी उप-विकास आयुक्त को सूचनार्थ एवं आवश्यक कार्यार्थ प्रेषित | colt (प्रशांत कुमार) सरकार के सचिव | ज्ञापांक : 29 / बी०्टीणई०-08 / 2025-26 / ..(:२22......,/ बजट, राँची, दिनांक : 2A[02/24 प्रतिलिपि : सचिव, राज्य वित्त आयोग /निदेशक, पेंशन एवं लेखा निदेशालय» कोषागार एवं सांस्थिक वित्त निदेशालय »अंकेक्षण निदेशालय /सभी पदाधिकारी, वित्त विभाग झारखण्ड, Weal को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | अनुलग्नक : तृतीय अनुपूरक अनुदान मांगें (प्रशांत कुमार) 2025-26 की एक प्रति। ae हा | ज्ञापांक : 29/ बी०्टी०ई०-08 / 2025-26 / ...(.2.2......// बजट, राँची, दिनांक : 22/02/24 प्रतिलिपि : उप सचिव, पी०एमग्यू०, वित्त विभाग, झारखण्ड, रॉची को सूचनार्थ एवं विभागीय website पर uploading के निमित प्रेषित | Y अनुलग्नक : तृतीय अनुपूरक अनुदान मांगें wens 2025-26 की एक प्रति। सरकार के सचिव |",
       "page": 2
     }
   ],

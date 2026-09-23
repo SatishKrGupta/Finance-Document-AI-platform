@@ -100,9 +100,50 @@ def ocr_pdf(pdf_path: Path) -> dict:
     }
 
 
-def process_file(pdf_path: Path, out_dir: Path):
-    print(f"OCR: {pdf_path.name}")
-    result = ocr_pdf(pdf_path)
+def extract_digital_text(pdf_path: Path) -> dict:
+    """
+    Direct text extraction for PDFs that already have a text layer —
+    much faster and more accurate than OCR, and avoids introducing OCR
+    errors into text that was already perfect.
+    """
+    doc = fitz.open(pdf_path)
+    pages_result = []
+    for page_num, page in enumerate(doc, start=1):
+        text = page.get_text()
+        pages_result.append({
+            "page": page_num,
+            "words": [],  # no per-word confidence for direct extraction
+            "full_text": text,
+        })
+    print(f"  extracted {len(pages_result)} pages directly (no OCR needed)")
+    return {
+        "file": pdf_path.name,
+        "page_count": len(pages_result),
+        "pages": pages_result,
+        "method": "direct_extraction",
+    }
+
+
+def load_classification(classification_path: Path) -> dict:
+    """Load classify.py's output as a filename -> status lookup."""
+    if not classification_path.exists():
+        return {}
+    records = json.loads(classification_path.read_text(encoding="utf-8"))
+    return {r["file"]: r["status"] for r in records}
+
+
+def process_file(pdf_path: Path, out_dir: Path, classification: dict):
+    status = classification.get(pdf_path.name)
+
+    if status == "digital":
+        print(f"Extracting (digital, skipping OCR): {pdf_path.name}")
+        result = extract_digital_text(pdf_path)
+    else:
+        # Unknown status (no classification.json found) falls back to OCR
+        # to be safe — better a slow correct result than a skipped one.
+        print(f"OCR ({status or 'unknown'}): {pdf_path.name}")
+        result = ocr_pdf(pdf_path)
+        result["method"] = "ocr"
 
     out_dir.mkdir(parents=True, exist_ok=True)
     out_path = out_dir / f"{pdf_path.stem}.json"
@@ -130,20 +171,36 @@ def main():
     parser.add_argument("--lang", default=OCR_LANG,
                          help="Tesseract language code, e.g. 'eng', 'hin', "
                               "or 'eng+hin' for both")
+    parser.add_argument("--classification", default="data/raw/classification.json",
+                         help="Path to classify.py output, used to skip OCR "
+                              "for digital PDFs")
+    parser.add_argument("--skip-existing", action="store_true",
+                         help="Skip files that already have output JSON")
     args = parser.parse_args()
 
     OCR_LANG = args.lang
 
     input_path = Path(args.input)
     out_dir = Path(args.out)
+    classification = load_classification(Path(args.classification))
+    if classification:
+        print(f"Loaded classification for {len(classification)} files "
+              f"from {args.classification}")
+    else:
+        print("No classification.json found — treating all files as "
+              "needing OCR. Run classify.py first to skip digital PDFs.")
 
     if args.batch:
         pdf_files = sorted(input_path.glob("*.pdf"))
         print(f"Found {len(pdf_files)} PDFs to process")
         for pdf_path in pdf_files:
-            process_file(pdf_path, out_dir)
+            out_json = out_dir / f"{pdf_path.stem}.json"
+            if args.skip_existing and out_json.exists():
+                print(f"Skipping (already processed): {pdf_path.name}")
+                continue
+            process_file(pdf_path, out_dir, classification)
     else:
-        process_file(input_path, out_dir)
+        process_file(input_path, out_dir, classification)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,968 @@
+{
+  "file": "422026_509.pdf",
+  "page_count": 1,
+  "pages": [
+    {
+      "words": [
+        {
+          "text": "St",
+          "confidence": 76,
+          "needs_review": false
+        },
+        {
+          "text": "»बजट",
+          "confidence": 87,
+          "needs_review": false
+        },
+        {
+          "text": "पत्रांक",
+          "confidence": 88,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "29",
+          "confidence": 71,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 71,
+          "needs_review": false
+        },
+        {
+          "text": "अनुपूरक-",
+          "confidence": 89,
+          "needs_review": false
+        },
+        {
+          "text": "02",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "2021-22",
+          "confidence": 88,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 86,
+          "needs_review": false
+        },
+        {
+          "text": "....:...........",
+          "confidence": 39,
+          "needs_review": true
+        },
+        {
+          "text": "J",
+          "confidence": 62,
+          "needs_review": false
+        },
+        {
+          "text": "TSE",
+          "confidence": 56,
+          "needs_review": true
+        },
+        {
+          "text": "झारखण्ड",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "सरकार",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "वित्त",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "विभाग",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "प्रेषक,",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "चन्द्रभूषण",
+          "confidence": 82,
+          "needs_review": false
+        },
+        {
+          "text": "प्रसाद,",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "संयुक्त",
+          "confidence": 68,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव-सह-बजट",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "पदाधिकारी",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "|",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "सेवा",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "में,",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "अपर",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "मुख्य",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "प्रधान",
+          "confidence": 85,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 81,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव,",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "विभागाध्यक्ष,",
+          "confidence": 20,
+          "needs_review": true
+        },
+        {
+          "text": "झारखण्ड,",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "रॉची",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "|",
+          "confidence": 94,
+          "needs_review": false
+        },
+        {
+          "text": "Way,",
+          "confidence": 61,
+          "needs_review": false
+        },
+        {
+          "text": "दिनांक",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "04-02-2026",
+          "confidence": 71,
+          "needs_review": false
+        },
+        {
+          "text": "विषय",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "तृतीय",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "अनुपूरक",
+          "confidence": 88,
+          "needs_review": false
+        },
+        {
+          "text": "व्यय",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "विवरणी",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "2025-26",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "हेतु",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "प्रस्ताव",
+          "confidence": 76,
+          "needs_review": false
+        },
+        {
+          "text": "उपलब्ध",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "कराने",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "के",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "संबंध",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "में",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "|",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "महोदय,",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "निदेशानुसार",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "उपरोक्त",
+          "confidence": 14,
+          "needs_review": true
+        },
+        {
+          "text": "विषयक",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "विभागीय",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "पत्रांक-65,,/बजट,",
+          "confidence": 36,
+          "needs_review": true
+        },
+        {
+          "text": "दिनांक",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "27.01.2026",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "के",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "प्रसंग",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "में",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "कहना",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "है",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "कि",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "तृतीय",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "अनुपूरक",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "हेतु",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "वांछित",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "प्रस्ताव",
+          "confidence": 88,
+          "needs_review": false
+        },
+        {
+          "text": "(स्थापना/योजना",
+          "confidence": 74,
+          "needs_review": false
+        },
+        {
+          "text": "संबंधी)",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "दिनांक",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "05.02.2026",
+          "confidence": 85,
+          "needs_review": false
+        },
+        {
+          "text": "(गुरूवार)",
+          "confidence": 72,
+          "needs_review": false
+        },
+        {
+          "text": "को",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "अपराहुन",
+          "confidence": 45,
+          "needs_review": true
+        },
+        {
+          "text": "5.00",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "बजे",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "तक",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "वित्त",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "विभाग",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "के",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "website",
+          "confidence": 79,
+          "needs_review": false
+        },
+        {
+          "text": "https://",
+          "confidence": 37,
+          "needs_review": true
+        },
+        {
+          "text": "jkuber.jharkhand.gov.in/budgetjhr",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": ">",
+          "confidence": 70,
+          "needs_review": false
+        },
+        {
+          "text": "budget",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": ">",
+          "confidence": 66,
+          "needs_review": false
+        },
+        {
+          "text": "supplementary",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "Third",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "4X",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "online",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "उपलब्ध",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "कराया",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "जा",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "सकता",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "है।",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "comp",
+          "confidence": 45,
+          "needs_review": true
+        },
+        {
+          "text": "SHR?",
+          "confidence": 7,
+          "needs_review": true
+        },
+        {
+          "text": "7",
+          "confidence": 37,
+          "needs_review": true
+        },
+        {
+          "text": "हम",
+          "confidence": 42,
+          "needs_review": true
+        },
+        {
+          "text": "संयुक्त",
+          "confidence": 89,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव-सह-बजट",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": "पदाधिकारी",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "|",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "प्रतिलिपि",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "अपर",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "मुख्य",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव,",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "राज्यपाल",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "सचिवालय,",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "झारखण्ड,",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "रॉची",
+          "confidence": 65,
+          "needs_review": false
+        },
+        {
+          "text": "/महानिबंधक,",
+          "confidence": 64,
+          "needs_review": false
+        },
+        {
+          "text": "उच्च",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "न्यायालय,",
+          "confidence": 52,
+          "needs_review": true
+        },
+        {
+          "text": "झारखण्ड,",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "राँची",
+          "confidence": 27,
+          "needs_review": true
+        },
+        {
+          "text": "/",
+          "confidence": 31,
+          "needs_review": true
+        },
+        {
+          "text": "प्रभारी",
+          "confidence": 68,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव,",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "विधान",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "सभा",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "सचिवालय,",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "राँची",
+          "confidence": 88,
+          "needs_review": false
+        },
+        {
+          "text": "को",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "५०,",
+          "confidence": 35,
+          "needs_review": true
+        },
+        {
+          "text": "एवं",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "आवश्यक",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "07211204०",
+          "confidence": 24,
+          "needs_review": true
+        },
+        {
+          "text": "(चन्द्रभूषण",
+          "confidence": 88,
+          "needs_review": false
+        },
+        {
+          "text": "प्रसाद)",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "संयुक्त",
+          "confidence": 79,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव-सह-बजट",
+          "confidence": 87,
+          "needs_review": false
+        },
+        {
+          "text": "पदाधिकारी",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "|",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "कार्रवाई",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "हेतु",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "प्रेषित",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "|",
+          "confidence": 70,
+          "needs_review": false
+        },
+        {
+          "text": "प्रतिलिपि",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": ":",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "मुख्यमंत्री",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "के",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "अपर",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "मुख्य",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव/संयुकत",
+          "confidence": 53,
+          "needs_review": true
+        },
+        {
+          "text": "सचिव,",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "मुख्य",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "कार्यालय",
+          "confidence": 87,
+          "needs_review": false
+        },
+        {
+          "text": "/",
+          "confidence": 71,
+          "needs_review": false
+        },
+        {
+          "text": "विकास",
+          "confidence": 29,
+          "needs_review": true
+        },
+        {
+          "text": "आयुक्त",
+          "confidence": 23,
+          "needs_review": true
+        },
+        {
+          "text": "के",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "प्रधान",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "आप्त",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव/सदस्य,",
+          "confidence": 27,
+          "needs_review": true
+        },
+        {
+          "text": "राजस्व",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "पर्षद",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "के",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "प्रधान",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "आप्त",
+          "confidence": 91,
+          "needs_review": false
+        },
+        {
+          "text": "है",
+          "confidence": 58,
+          "needs_review": true
+        },
+        {
+          "text": "झारखण्ड,",
+          "confidence": 93,
+          "needs_review": false
+        },
+        {
+          "text": "Vell",
+          "confidence": 31,
+          "needs_review": true
+        },
+        {
+          "text": "को",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "सूचनार्थ",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "एवं",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "आवश्यक",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "कार्रवाई",
+          "confidence": 95,
+          "needs_review": false
+        },
+        {
+          "text": "हेतु",
+          "confidence": 96,
+          "needs_review": false
+        },
+        {
+          "text": "प्रेषित",
+          "confidence": 72,
+          "needs_review": false
+        },
+        {
+          "text": "|",
+          "confidence": 72,
+          "needs_review": false
+        },
+        {
+          "text": "9",
+          "confidence": 21,
+          "needs_review": true
+        },
+        {
+          "text": "Wie",
+          "confidence": 21,
+          "needs_review": true
+        },
+        {
+          "text": "(चन्द्रभूषण",
+          "confidence": 90,
+          "needs_review": false
+        },
+        {
+          "text": ")",
+          "confidence": 92,
+          "needs_review": false
+        },
+        {
+          "text": "संयुक्त",
+          "confidence": 72,
+          "needs_review": false
+        },
+        {
+          "text": "सचिव-सह-बजट",
+          "confidence": 85,
+          "needs_review": false
+        },
+        {
+          "text": "पदाधिकारी",
+          "confidence": 0,
+          "needs_review": true
+        },
+        {
+          "text": "|",
+          "confidence": 95,
+          "needs_review": false
+        }
+      ],
+      "full_text": "St »बजट पत्रांक : 29 / अनुपूरक- 02 / 2021-22 / ....:........... J TSE झारखण्ड सरकार वित्त विभाग प्रेषक, चन्द्रभूषण प्रसाद, संयुक्त सचिव-सह-बजट पदाधिकारी | सेवा में, अपर मुख्य सचिव / प्रधान सचिव / सचिव, विभागाध्यक्ष, झारखण्ड, रॉची | Way, दिनांक : 04-02-2026 विषय : तृतीय अनुपूरक व्यय विवरणी 2025-26 हेतु प्रस्ताव उपलब्ध कराने के संबंध में | महोदय, निदेशानुसार उपरोक्त विषयक विभागीय पत्रांक-65,,/बजट, दिनांक 27.01.2026 के प्रसंग में कहना है कि तृतीय अनुपूरक हेतु वांछित प्रस्ताव (स्थापना/योजना संबंधी) दिनांक 05.02.2026 (गुरूवार) को अपराहुन 5.00 बजे तक वित्त विभाग के website https:// jkuber.jharkhand.gov.in/budgetjhr > budget > supplementary Third 4X online उपलब्ध कराया जा सकता है। comp SHR? 7 हम संयुक्त सचिव-सह-बजट पदाधिकारी | प्रतिलिपि : अपर मुख्य सचिव, राज्यपाल सचिवालय, झारखण्ड, रॉची /महानिबंधक, उच्च न्यायालय, झारखण्ड, राँची / प्रभारी सचिव, विधान सभा सचिवालय, राँची को ५०, एवं आवश्यक 07211204० (चन्द्रभूषण प्रसाद) संयुक्त सचिव-सह-बजट पदाधिकारी | कार्रवाई हेतु प्रेषित | प्रतिलिपि : मुख्यमंत्री के अपर मुख्य सचिव/संयुकत सचिव, मुख्य सचिव कार्यालय / विकास आयुक्त के प्रधान आप्त सचिव/सदस्य, राजस्व पर्षद के प्रधान आप्त है झारखण्ड, Vell को सूचनार्थ एवं आवश्यक कार्रवाई हेतु प्रेषित | 9 Wie (चन्द्रभूषण ) संयुक्त सचिव-सह-बजट पदाधिकारी |",
+      "page": 1
+    }
+  ],
+  "method": "ocr"
+}
