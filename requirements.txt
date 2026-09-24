@@ -3,3 +3,5 @@ beautifulsoup4
 PyMuPdf
 pytesseract
 Pillow
+groq
+python-dotenv

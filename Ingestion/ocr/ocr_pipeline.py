@@ -138,6 +138,12 @@ def process_file(pdf_path: Path, out_dir: Path, classification: dict):
     if status == "digital":
         print(f"Extracting (digital, skipping OCR): {pdf_path.name}")
         result = extract_digital_text(pdf_path)
+    elif status == "digital_garbled":
+        # Has a text layer, but it's legacy-font garbage (see classify.py).
+        # Rasterize and OCR the rendered glyphs instead of trusting it.
+        print(f"OCR (digital but garbled font, needs OCR): {pdf_path.name}")
+        result = ocr_pdf(pdf_path)
+        result["method"] = "ocr_fallback_garbled_font"
     else:
         # Unknown status (no classification.json found) falls back to OCR
         # to be safe — better a slow correct result than a skipped one.
