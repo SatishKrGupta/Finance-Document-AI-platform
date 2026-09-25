@@ -1,0 +1,177 @@
+[
+  {
+    "file": "10112025_500.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "1022026_511.pdf",
+    "status": "scanned",
+    "page_count": 7,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "1022026_512.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "1282026_525.pdf",
+    "status": "scanned",
+    "page_count": 1,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "13112025_501.pdf",
+    "status": "scanned",
+    "page_count": 1,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "14102025_498.pdf",
+    "status": "digital",
+    "page_count": 265,
+    "avg_chars_per_page": 2087.0,
+    "valid_char_fraction": 0.999
+  },
+  {
+    "file": "1482026_526.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "15122025_506.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "16102025_499.pdf",
+    "status": "digital",
+    "page_count": 137,
+    "avg_chars_per_page": 478.0,
+    "valid_char_fraction": 0.957
+  },
+  {
+    "file": "1722026_513.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "1832026_516.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "19112025_502.pdf",
+    "status": "digital",
+    "page_count": 2,
+    "avg_chars_per_page": 219.5,
+    "valid_char_fraction": 0.977
+  },
+  {
+    "file": "2372026_522.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "24122025_507.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "2592025_497.pdf",
+    "status": "scanned",
+    "page_count": 7,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "27112025_503.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "2722026_514.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "2812026_508.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "2832026_517.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "292025_495.pdf",
+    "status": "scanned",
+    "page_count": 2,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "2942026_519.pdf",
+    "status": "scanned",
+    "page_count": 1,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "422026_509.pdf",
+    "status": "scanned",
+    "page_count": 1,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  },
+  {
+    "file": "482026_524.pdf",
+    "status": "digital_garbled",
+    "page_count": 3,
+    "avg_chars_per_page": 2316.0,
+    "valid_char_fraction": 0.313
+  },
+  {
+    "file": "622026_510.pdf",
+    "status": "digital",
+    "page_count": 2,
+    "avg_chars_per_page": 179.5,
+    "valid_char_fraction": 0.99
+  },
+  {
+    "file": "842026_518.pdf",
+    "status": "scanned",
+    "page_count": 4,
+    "avg_chars_per_page": 0.0,
+    "valid_char_fraction": null
+  }
+]
